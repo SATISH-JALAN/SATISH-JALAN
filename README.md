@@ -16,10 +16,10 @@ I'm currently working on becoming a full stack web developer and also enthusiast
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SATISH-JALAN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<details>
-<summary><b><h1>GSSOC(24) Badges 🪶</h1></b></summary><br>
 
-<div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<summary><b> <h2>GSSOC(24) Badges 🪶</h2> </b></summary><br>
+
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
@@ -33,7 +33,7 @@ I'm currently working on becoming a full stack web developer and also enthusiast
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
+
 
   
 ### ✍️ Random Dev Quote
